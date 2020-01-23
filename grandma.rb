@@ -8,7 +8,7 @@ if speak_to_grandma == "I LOVE YOU GRANDMA!"
   #elseif == "(string)".downcase
   #return "NO, NOT SINCE 1938!"
   
-  #else == "(string)".upcase
+  #else "(string)".upcase
   #return "HUH?! SPEAK UP, SONNY!"
   
 end
